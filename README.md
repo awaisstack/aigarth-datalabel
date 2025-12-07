@@ -56,10 +56,10 @@ Every label submission generates a **Blockchain Proof** - an immutable transacti
 
 ---
 
-## 🎮 For Judges: Quick Demo
+## 🎮 Quick Demo
 
 ### Live Link
-[Coming Soon - Vercel Deploy]
+https://aigarth-datalabel-hacks.vercel.app/
 
 ### Test Locally
 ```bash
@@ -148,7 +148,7 @@ q-label-app/
 
 **Project:** Aigarth DataLabel  
 **Track:** Experimental #1  
-**Team:** [Your Name]
+**Team:** Enlighteners
 
 ### What Makes This Different?
 
