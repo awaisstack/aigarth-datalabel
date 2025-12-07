@@ -3,7 +3,7 @@
 // Payouts are simulated client-side/server-side for now but don't rely on this store.
 
 export const TreasuryStore = {
-    getBalance: () => 0,
-    addFunds: () => 0,
-    deductFunds: () => true
+    getBalance: (_category?: string) => 0,
+    addFunds: (_category?: string, _amount?: number) => 0,
+    deductFunds: (_category?: string, _amount?: number) => true
 };
